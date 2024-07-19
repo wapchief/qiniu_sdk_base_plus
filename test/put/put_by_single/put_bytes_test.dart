@@ -1,5 +1,5 @@
 @Timeout(Duration(seconds: 60))
-import 'package:qiniu_sdk_base/qiniu_sdk_base.dart';
+import 'package:qiniu_sdk_base_plus/qiniu_sdk_base_plus.dart';
 import 'package:test/test.dart';
 
 import '../../config.dart';
